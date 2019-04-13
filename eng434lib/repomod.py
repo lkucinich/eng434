@@ -1,5 +1,4 @@
-# removed spaces and used tab
-
+# trying to remove spaces again
 def myfunc():
     return 1
 
