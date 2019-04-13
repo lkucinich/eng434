@@ -1,4 +1,3 @@
-# trying to remove spaces again
-def myfunc():
-    return 1
+# trying one more time
+def myfunc(): return 1
 
